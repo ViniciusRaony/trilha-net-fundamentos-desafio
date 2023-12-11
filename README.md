@@ -36,3 +36,24 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Como executar o Projeto
+
+Usando Docker (é pré-requisito ter o docker instalado na máquina)
+- Entre no diretório do projeto: 
+
+  ```cd DesafioFundamentos```
+
+- Iniciar build e run da aplicação:
+
+  ```./start.sh```
+
+Diretamente no ambiente local (é pré-requisito ter o .NET SDK instalado na máquina)
+- Entre no diretório do projeto: 
+
+  ```cd DesafioFundamentos```
+
+- Iniciar build e run da aplicação:
+
+  ```dotnet run```
+
